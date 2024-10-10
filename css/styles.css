@@ -1,0 +1,596 @@
+
+/* Color of Layout */
+
+
+#title {
+
+  background-color: #ff4c68;
+  color:#fff;
+
+}
+
+/* Main Layout */
+
+
+.Main-header{
+
+  font-size: 100px;
+}
+
+.picture2{
+
+width: 100%;
+
+
+}
+
+.horRule{
+
+min-height: 35px;
+color: yellow;
+
+}
+
+
+
+
+.picture {
+  height: 100%;
+  width: 100%;
+  position:relative;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+
+
+.picture {
+  height: 100%;
+  width: 100%;
+  position:relative;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+/* All Download Buttons */
+
+
+.btn3 {
+   background: #F63D3D;
+   background-image: -webkit-linear-gradient(top, #F63D3D, #811616);
+   background-image: -moz-linear-gradient(top, #F63D3D, #811616);
+   background-image: -ms-linear-gradient(top, #F63D3D, #811616);
+   background-image: -o-linear-gradient(top, #F63D3D, #811616);
+   background-image: -webkit-gradient(to bottom, #F63D3D, #811616);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   height: 15px;
+   line-height: 10px;
+   color: yellow;
+   font-family: Road Rage;
+   width: 75%;
+   font-size: 45px;
+   font-weight: 900;
+   padding: 28px;
+   -webkit-box-shadow: 1px 1px 6px 0 #000000;
+   -moz-box-shadow: 1px 1px 6px 0 #000000;
+   box-shadow: 1px 1px 6px 0 #000000;
+   text-shadow: 1px 1px 6px #000000;
+   border: solid #762C2C 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-bottom: 20px;
+
+}
+
+.container-fluid{
+  padding: 3% 15% 7%;
+}
+
+.download-button {
+
+margin: 5% 3% 5% 0;
+
+}
+
+
+
+/* Navigation Bar */
+*{
+
+  background-color: black;
+}
+
+.navbar {
+padding-bottom: 4.5rem;
+
+}
+
+.nav-item {
+padding: 0 18px;
+
+}
+
+.nav-link{
+font-size: 22px;
+
+}
+
+.navbar-brand {
+font-family: "Ubuntu";
+font-size: 2.5rem;
+font-weight: bold;
+
+}
+
+
+
+/* new section below */
+
+
+
+
+body{
+}
+
+.pro{
+  text-decoration: underline;
+
+}
+
+
+.line{
+
+}
+
+
+hr {
+
+  border: dotted black 6px;
+  border-bottom: none;
+  width: 24%;
+  margin: 100px auto;
+
+}
+.ahhhh{
+  font-size: 200px;
+  color:yellow;
+  text-decoration: underline;
+}
+
+.ahhhh2{
+  font-size: 200px;
+  color:red;
+  text-decoration: underline;
+
+
+}
+
+.songstyx{
+padding-top: 75px;
+text-align: center;
+
+}
+
+.styxmention{
+  font-size: 33px;
+padding-left: 25px;
+padding-right: 25px;
+
+
+}
+
+.topbar{
+  background-color: #9E1B32;
+  height: 100px;
+  font-weight: bold;
+}
+
+.treefrog{
+  font-size: 55px;
+  color: #FFB612;
+}
+
+
+.picture {
+  height: 100%;
+  width: 100%;
+  position:relative;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.main-texttop{
+  font-family: 'Alfa Slab One', cursive;
+
+
+
+}
+.PlayerName{
+  padding-left: 25px;
+}
+
+.HeaderTrueLove{
+
+  text-align: center;
+}
+.container-fluid{
+  padding: 3% 15% 7%;
+}
+
+h1{
+  font-family: 'Montserrat'sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-weight: 900;
+}
+
+h2 {
+  font-family: 'Montserrat';
+  font-size: 3rem;
+}
+
+
+.welcome{
+  text-align: center;
+  font-family: 'Road Rage', cursive;
+  font-size: 105px;
+}
+
+h3{
+  font-family: 'Montserrat';
+  font-size: 1.5rem;
+
+}
+
+p{
+color: #8f8f8f;
+
+
+}
+
+/* Navigation Bar */
+
+.btn2 {
+   background: #F63D3D;
+   background-image: -webkit-linear-gradient(top, #F63D3D, #811616);
+   background-image: -moz-linear-gradient(top, #F63D3D, #811616);
+   background-image: -ms-linear-gradient(top, #F63D3D, #811616);
+   background-image: -o-linear-gradient(top, #F63D3D, #811616);
+   background-image: -webkit-gradient(to bottom, #F63D3D, #811616);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   height: 10px;
+   line-height: 10px;
+   color: yellow;
+   font-family: Road Rage;
+   width: 249px;
+   font-size: 60px;
+   font-weight: 900;
+   padding: 28px;
+   -webkit-box-shadow: 1px 1px 6px 0 #000000;
+   -moz-box-shadow: 1px 1px 6px 0 #000000;
+   box-shadow: 1px 1px 6px 0 #000000;
+   text-shadow: 1px 1px 6px #000000;
+   border: solid #762C2C 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-bottom: 20px;
+
+}
+
+
+
+
+
+.navbar {
+padding-bottom: 1.5rem;
+
+}
+
+.nav-item {
+padding: 0 10px;
+
+
+}
+
+.nav-link{
+font-size: 35px;
+
+}
+
+.navbar-brand {
+font-family: "Ubuntu";
+font-size: 2.5rem;
+font-weight: bold;
+padding-left: 12px;
+}
+
+
+
+/* Title Image */
+
+
+.title-image {
+
+}
+
+/* Features Section */
+
+.bold-typehead{
+
+  font-family: 'Alfa Slab One', cursive;
+
+}
+
+#features {
+padding: 7% 15%;
+background-color:#964B00;
+position: relative;
+
+}
+
+#features2 {
+padding: 7% 15%;
+background-color: white;
+position: relative;
+color:black;
+font-family: 'Road Rage', cursive;
+
+}
+
+.billysilly2{
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 75px;
+  padding-bottom: 75px;
+  height:50%;
+  width:50%;
+
+
+
+}
+
+
+
+.welcome{
+  color:white;
+}
+
+.welcome2{
+font-size: 134px;
+}
+
+.feature-box {
+text-align: center;
+padding:5%;
+
+}
+
+.icon {
+  color: red;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #FFB612;
+
+
+}
+
+
+
+/* Testimonials Section */
+
+.namelocation{
+
+  font-size: 52px;
+  width:100%;
+  text-align: center;
+}
+
+
+#testimonials {
+text-align: center;
+padding-bottom: 20px;
+background-color: black;
+color: yellow;
+
+}
+
+.testimonial-text{
+
+font-family: "Ubuntu";
+color: white;
+
+
+}
+
+.testimonial-image {
+  width: 100%;
+  margin: 20px;
+
+
+}
+
+.carousel-item {
+  padding: 7% 15%;
+
+
+}
+
+#press{
+
+  background-color: black;
+  text-align: center;
+  padding-bottom: 3%;
+
+
+}
+
+.press-logo {
+
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+#navbarSupportedContent{
+  font-size: 100px;
+}
+
+
+.ahhhh{
+  font-size: 55px;
+  color: yellow;
+  font-family: 'Road Rage', cursive;
+  line-height: 56.5px;
+
+
+}
+
+
+.pricing column {
+
+  padding: 3% 2%;
+}
+
+.meetplayers {
+
+  padding-top: 45px;
+  padding-left: 45px;
+  padding-right: 45px;
+  padding-bottom: 45px;
+  line-height: 56.5px;
+  text-align: left;
+  font-size: 55px;
+  color: white;
+  font-family: 'Road Rage', cursive;
+
+}
+
+.meetplayers2 {
+
+  padding-top: 45px;
+  padding-left: 145px;
+  padding-right: 145px;
+  padding-bottom: 145px;
+  line-height: 56.5px;
+  text-align: left;
+  font-size: 55px;
+  color: yellow;
+  font-family: 'Road Rage', cursive;
+
+}
+
+@media (max-width: 1028px) {
+
+
+
+
+}
+
+
+.introbox {
+
+  color: white;
+
+  margin-top: 40px;
+
+
+}
+
+/* CTA or Call to Action Section */
+
+.cta {
+
+background-color: yellow;
+color: #fff;
+padding: 7% 15%;
+text-align: center;
+
+
+}
+
+.cta-heading{
+  font-family: 'Alfa Slab One', cursive;
+  font-size: 3.5rem;
+  line-height: 1.5;
+
+}
+
+
+
+
+
+/* BOTTOM CONTAINER AREA */
+
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+  margin: 10px;
+
+}
+
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+
+
+
+.btn3 {
+   background: #F63D3D;
+   background-image: -webkit-linear-gradient(top, #F63D3D, #811616);
+   background-image: -moz-linear-gradient(top, #F63D3D, #811616);
+   background-image: -ms-linear-gradient(top, #F63D3D, #811616);
+   background-image: -o-linear-gradient(top, #F63D3D, #811616);
+   background-image: -webkit-gradient(to bottom, #F63D3D, #811616);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   height: 15px;
+   line-height: 10px;
+   color: yellow;
+   font-family: Road Rage;
+   width: 75%;
+   font-size: 66px;
+   font-weight: 900;
+   padding: 28px;
+   -webkit-box-shadow: 1px 1px 6px 0 #000000;
+   -moz-box-shadow: 1px 1px 6px 0 #000000;
+   box-shadow: 1px 1px 6px 0 #000000;
+   text-shadow: 1px 1px 6px #000000;
+   border: solid #762C2C 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-bottom: 20px;
+
+}
+
+
+
+
+
+/* Footer Section */
+
+.footer2 {
+padding: 50px;
+text-align: center;
+font-size: 38px;
+background-color:#964B00;
+
+}
